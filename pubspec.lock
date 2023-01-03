@@ -16,7 +16,7 @@ packages:
     source: hosted
     version: "2.9.0"
   bloc:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: bloc
       url: "https://pub.dartlang.org"
@@ -72,14 +72,14 @@ packages:
     source: hosted
     version: "1.0.5"
   dartz:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: dartz
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.10.1"
   equatable:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: equatable
       url: "https://pub.dartlang.org"
@@ -112,7 +112,7 @@ packages:
     source: sdk
     version: "0.0.0"
   flutter_bloc:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: flutter_bloc
       url: "https://pub.dartlang.org"
@@ -126,7 +126,7 @@ packages:
     source: hosted
     version: "2.0.1"
   flutter_localization:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: flutter_localization
       url: "https://pub.dartlang.org"
@@ -138,7 +138,7 @@ packages:
     source: sdk
     version: "0.0.0"
   flutter_screenutil:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: flutter_screenutil
       url: "https://pub.dartlang.org"
@@ -176,7 +176,7 @@ packages:
     source: hosted
     version: "2.0.1"
   lottie:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: lottie
       url: "https://pub.dartlang.org"
@@ -274,7 +274,7 @@ packages:
     source: hosted
     version: "6.0.5"
   shared_preferences:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: shared_preferences
       url: "https://pub.dartlang.org"

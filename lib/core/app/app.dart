@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
             GlobalCupertinoLocalizations.delegate,
             AppLocalizations.delegate,
           ],
-          supportedLocales: const [Locale("ar"), Locale("en")],
+          supportedLocales: const [Locale("ar")],
           localeResolutionCallback: (deviceLocale, supportedLocales) {
             for (var locale in supportedLocales) {
               if (deviceLocale != null &&
